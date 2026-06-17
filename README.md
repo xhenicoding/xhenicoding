@@ -2,10 +2,17 @@
 
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
 
+## 👩‍💻 About Me
 
-## :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :telescope: Dedicated and results-driven Full-Stack Mobile and Web Developer with a proven track record of six years in the industry. Adept at creating innovative and efficient solutions for complex technical challenges. Proficient in both front-end and back-end development, with a strong commitment to delivering high-quality software that meets or exceeds client expectations. Experienced in working on a variety of projects ranging from small startups to large enterprises.
+- 🚀 Full-Stack Engineer with 9+ years of experience building user-centric web applications and modern digital platforms.
+- 💻 Experienced across frontend and backend development using React, Angular, Vue.js, Next.js, Node.js, NestJS, Laravel, and Symfony.
+- ☁️ Skilled in designing and delivering cloud-native solutions on AWS, GCP, and Azure, with a strong focus on performance, scalability, and maintainability.
+- 🎨 Passionate about transforming business requirements and UI/UX designs into intuitive, responsive, and production-ready digital experiences.
+- 🤝 Enjoy collaborating with cross-functional teams in Agile environments to deliver reliable and impactful products.
+- 🤖 Experienced in integrating intelligent automation and AI-powered capabilities into modern web applications to enhance user experiences and streamline workflows.
+- 📚 Committed to continuous learning, innovation, and building technology that creates meaningful value for users and businesses.
+
+This aligns with Xheni's new brand: User-Centric Applications & Modern Web Platforms, while mentioning AI only once in a natural way.
 
 ## 💻 Languages, Frameworks, and Tools
 
